@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1652113357 source:c:\users\filip\desktop\pentru prodan\proiect\main.cpp
+	<iostream>
+	"Carte.h"
+	"Functii.h"
+
+1652115195 c:\users\filip\desktop\pentru prodan\proiect\include\carte.h
+	"Functii.h"
+	"Client.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<windows.h>
+	<conio.h>
+
+1652115235 c:\users\filip\desktop\pentru prodan\proiect\include\client.h
+	<string>
+	<cstring>
+	<iostream>
+	<fstream>
+	<windows.h>
+	"Carte.h"
+
+1652113373 c:\users\filip\desktop\pentru prodan\proiect\include\functii.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<cstring>
+	<conio.h>
+	"Carte.h"
+	"Client.h"
+	<fstream>
+	<windows.h>
+
+1652115154 source:c:\users\filip\desktop\pentru prodan\proiect\src\carte.cpp
+	"Carte.h"
+
+1652106641 source:c:\users\filip\desktop\pentru prodan\proiect\src\client.cpp
+	"Client.h"
+
+1652110890 source:c:\users\filip\desktop\pentru prodan\proiect\src\functii.cpp
+	"Functii.h"
+
+1653942118 source:c:\users\filip\desktop\proiect poo 10.09.2022\proiect\main.cpp
+	<iostream>
+	"Carte.h"
+	"Functii.h"
+
+1653942180 c:\users\filip\desktop\proiect poo 10.09.2022\proiect\include\carte.h
+	"Functii.h"
+	"Client.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<windows.h>
+	<conio.h>
+
+1652181654 c:\users\filip\desktop\proiect poo 10.09.2022\proiect\include\functii.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<cstring>
+	<conio.h>
+	"Carte.h"
+	"Client.h"
+	<fstream>
+
+1652181654 c:\users\filip\desktop\proiect poo 10.09.2022\proiect\include\client.h
+	<string>
+	<cstring>
+	<iostream>
+	<fstream>
+	"Carte.h"
+
+1653981731 source:c:\users\filip\desktop\proiect poo 10.09.2022\proiect\src\carte.cpp
+	"Carte.h"
+
+1653984204 source:c:\users\filip\desktop\proiect poo 10.09.2022\proiect\src\client.cpp
+	"Client.h"
+
+1653985030 source:c:\users\filip\desktop\proiect poo 10.09.2022\proiect\src\functii.cpp
+	"Functii.h"
+
+1653938518 source:c:\users\filip\desktop\proiect poo\main.cpp
+	<iostream>
+	"Carte.h"
+	"Functii.h"
+
+1653938580 c:\users\filip\desktop\proiect poo\include\carte.h
+	"Functii.h"
+	"Client.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<windows.h>
+	<conio.h>
+
+1652178054 c:\users\filip\desktop\proiect poo\include\functii.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<cstring>
+	<conio.h>
+	"Carte.h"
+	"Client.h"
+	<fstream>
+
+1652178054 c:\users\filip\desktop\proiect poo\include\client.h
+	<string>
+	<cstring>
+	<iostream>
+	<fstream>
+	"Carte.h"
+
+1653981535 source:c:\users\filip\desktop\proiect poo\src\carte.cpp
+	"Carte.h"
+
+1653980604 source:c:\users\filip\desktop\proiect poo\src\client.cpp
+	"Client.h"
+
+1653996132 source:c:\users\filip\desktop\proiect poo\src\functii.cpp
+	"Functii.h"
+

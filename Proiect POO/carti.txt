@@ -1,0 +1,6 @@
+1.Poezii,Mihai Eminescu,20/01/2001,Pacific,Poezie,Literatura,1,1;
+2.Moara cu noroc,Ioan Slavici,12/04/1876,Adenium,Proza,Literatura,1,0;
+3.Mara,George Calinescu,13/09/2001,Art,Proza,Literatura,2,2;
+4.Harap Alb,Ion Creanga,23/04/1997,Tipo,Proza,Literatura,3,3;
+5.Antologie de Toamna,Mihai Eminescu,13/29/1997,Minerva,Poezie,Literatura,4,3;
+6.Enigma Otiliei,George Calinescu,14/07/1967,Artemis,Proza,Literatura,5,5;

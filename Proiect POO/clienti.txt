@@ -1,0 +1,4 @@
+1.Filip Leonard,1234231546576,Boura,3,6,8,5;
+2.Baesu Tiberiu,2546854153588,Suceava,0;
+3.Murarasu Matei,5025364521578,Suceava,2,2,3;
+4.Domnita Andrei Claudiu,1234567896543, Suceava,2,3,7;
